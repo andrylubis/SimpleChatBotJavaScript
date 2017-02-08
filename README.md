@@ -14,5 +14,5 @@ WEEKLY PROJECT - Week 2 - Day 5 - Simple JavaScript App
  - Jika pelanggan memilih pertanyaan No. 0, maka tampilkan "cara order"
  - Jika pelanggan memilih pertanyaan No. 1, maka tampilkan "cara transaksi"
  - Jika pelanggan memilih pertanyaan No. 2, maka tampilkan "terimakasih."
- - Jika pelanggan memilih pertanyaan selain No. 1 s/d 2, maka menampilkan "Maaf pilihan pertanyaan tidak tersedia"
+ - Jika pelanggan memilih pertanyaan selain No. 0 s/d 2, maka menampilkan "Maaf pilihan pertanyaan tidak tersedia"
 
