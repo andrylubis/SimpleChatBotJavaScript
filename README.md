@@ -6,7 +6,7 @@ WEEKLY PROJECT - Week 2 - Day 5 - Simple JavaScript App
 2. Chat menerima parameter: nama dan pertanyaan.
 3. Simpan paramater tersebut pada property dengan nama yang sama.
 4. Buat method introduction yang akan menampilkan salam perkenalan kepada lawan chatting.
-5. BUatlah 3 buah array yang akan menampung data: pelanggan, admin, dan pilihan pertanyaan (pilpertanyaan).
+5. Buatlah 3 buah array yang akan menampung data: pelanggan, admin, dan pilihan pertanyaan (pilpertanyaan).
 6. Panggil method introduction untuk memulai chat.
 7. Buatlah perulangan dengan for untuk menampilkan seluruh pilihan pertanyaan yang tersedia di dalam array.
 8. Menampilkan dan mengkonfirmasi pertanyaan yang di pilih pelanggan.

@@ -11,7 +11,7 @@ var Chat = function(nama, pertanyaan) {
   
 }
 
-var pelanggan = new Chat('Rizal', 3);
+var pelanggan = new Chat('Rizal', 1);
 var admin = new Chat('Sifa');
 var pilpertanyaan = ['Cara order', ' Cara transaksi', 'Batal'];
 
