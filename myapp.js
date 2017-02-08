@@ -1,4 +1,4 @@
-//Aplikasi bot chat sederhana
+//Aplikasi chat boot sederhana untuk menjawab pertanyaan terkait order dan pemesanan di toko online.
 
 var Chat = function(nama, pertanyaan) {
   this.nama          = nama;
